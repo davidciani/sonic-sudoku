@@ -12,10 +12,10 @@ sudoku.common module
    :undoc-members:
    :show-inheritance:
 
-sudoku.sudoku module
+sudoku.solver module
 --------------------
 
-.. automodule:: sudoku.sudoku
+.. automodule:: sudoku.solver
    :members:
    :undoc-members:
    :show-inheritance:
