@@ -1,14 +1,10 @@
-.. Sudoku documentation master file, created by
-   sphinx-quickstart on Tue Mar 31 22:26:25 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Sudoku's documentation!
-==================================
+Welcome to Sonic Sudoku's documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   sudoku
 
 
 
